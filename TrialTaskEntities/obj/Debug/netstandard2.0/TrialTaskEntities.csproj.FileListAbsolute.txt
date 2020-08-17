@@ -1,0 +1,9 @@
+C:\Users\panje\source\repos\TrialTaskSol\TrialTaskEntities\bin\Debug\netstandard2.0\TrialTaskEntities.deps.json
+C:\Users\panje\source\repos\TrialTaskSol\TrialTaskEntities\bin\Debug\netstandard2.0\TrialTaskEntities.dll
+C:\Users\panje\source\repos\TrialTaskSol\TrialTaskEntities\bin\Debug\netstandard2.0\TrialTaskEntities.pdb
+C:\Users\panje\source\repos\TrialTaskSol\TrialTaskEntities\obj\Debug\netstandard2.0\TrialTaskEntities.csprojAssemblyReference.cache
+C:\Users\panje\source\repos\TrialTaskSol\TrialTaskEntities\obj\Debug\netstandard2.0\TrialTaskEntities.csproj.CoreCompileInputs.cache
+C:\Users\panje\source\repos\TrialTaskSol\TrialTaskEntities\obj\Debug\netstandard2.0\TrialTaskEntities.AssemblyInfoInputs.cache
+C:\Users\panje\source\repos\TrialTaskSol\TrialTaskEntities\obj\Debug\netstandard2.0\TrialTaskEntities.AssemblyInfo.cs
+C:\Users\panje\source\repos\TrialTaskSol\TrialTaskEntities\obj\Debug\netstandard2.0\TrialTaskEntities.dll
+C:\Users\panje\source\repos\TrialTaskSol\TrialTaskEntities\obj\Debug\netstandard2.0\TrialTaskEntities.pdb
